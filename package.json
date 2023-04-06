@@ -1,0 +1,16 @@
+{
+  "name": "lbluigi.github.io",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0",
+    "vite-plugin-windicss": "^1.8.10",
+    "windicss": "^3.5.6"
+  }
+}
